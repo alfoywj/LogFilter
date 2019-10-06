@@ -1,13 +1,7 @@
+package logfilter;
 import java.awt.Color;
 import java.util.StringTokenizer;
 
-/**
- * 
- */
-
-/**
- * 
- */
 public class LogCatParser implements ILogParser
 {
     final String TOKEN_KERNEL= "<>[]";

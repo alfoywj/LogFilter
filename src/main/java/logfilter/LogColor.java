@@ -1,3 +1,4 @@
+package logfilter;
 public class LogColor
 {
                                         //aarrggbb

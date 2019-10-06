@@ -5,6 +5,7 @@
 /**
  * 
  */
+package logfilter;
 public interface INotiEvent
 {
     public static int EVENT_CLICK_BOOKMARK              = 0;

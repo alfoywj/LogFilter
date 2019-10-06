@@ -1,3 +1,4 @@
+package logfilter;
 /*
 RecentFileMenu.java - menu to store and display recently used files.
  

@@ -1,4 +1,4 @@
-
+package logfilter;
 public class TagInfo
 {
     static final int COMUMN_TAG    = 0;

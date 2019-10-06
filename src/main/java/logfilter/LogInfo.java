@@ -1,3 +1,4 @@
+package logfilter;
 import java.awt.Color;
 
 public class LogInfo
