@@ -204,7 +204,7 @@ public class LogFilterMain extends JFrame implements INotiEvent
     static RecentFileMenu     m_recentMenu;
 //    String                    m_strLastDir;
 
-    public static void main(final String args[])
+    public static void appMain(final String args[])
     {
 //        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
